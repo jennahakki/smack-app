@@ -7,6 +7,7 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
+		3B3712741FEF180300F55B36 /* GradientView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 3B3712731FEF180300F55B36 /* GradientView.swift */; };
 		3B90C5D31FE87E530051DFBB /* AppDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = 3B90C5D21FE87E530051DFBB /* AppDelegate.swift */; };
 		3B90C5D81FE87E530051DFBB /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 3B90C5D61FE87E530051DFBB /* Main.storyboard */; };
 		3B90C5DA1FE87E530051DFBB /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 3B90C5D91FE87E530051DFBB /* Assets.xcassets */; };
@@ -19,6 +20,7 @@
 
 /* Begin PBXFileReference section */
 		28E04EAA5D2B122D2E70AB81 /* Pods_Smack.framework */ = {isa = PBXFileReference; explicitFileType = wrapper.framework; includeInIndex = 0; path = Pods_Smack.framework; sourceTree = BUILT_PRODUCTS_DIR; };
+		3B3712731FEF180300F55B36 /* GradientView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = GradientView.swift; sourceTree = "<group>"; };
 		3B90C5CF1FE87E530051DFBB /* Smack.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = Smack.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		3B90C5D21FE87E530051DFBB /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
 		3B90C5D71FE87E530051DFBB /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/Main.storyboard; sourceTree = "<group>"; };
@@ -102,6 +104,7 @@
 		3BF93B681FEEDDC6008B0BF8 /* View */ = {
 			isa = PBXGroup;
 			children = (
+				3B3712731FEF180300F55B36 /* GradientView.swift */,
 			);
 			path = View;
 			sourceTree = "<group>";
@@ -256,6 +259,7 @@
 			files = (
 				3BF93B6D1FEEDDFE008B0BF8 /* ChannelVC.swift in Sources */,
 				3BF93B6B1FEEDDED008B0BF8 /* ChatVC.swift in Sources */,
+				3B3712741FEF180300F55B36 /* GradientView.swift in Sources */,
 				3B90C5D31FE87E530051DFBB /* AppDelegate.swift in Sources */,
 				3BC683561FE9E6D300D2F2C2 /* SWRevealViewController.m in Sources */,
 			);
